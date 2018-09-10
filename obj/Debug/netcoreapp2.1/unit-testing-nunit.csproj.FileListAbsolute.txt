@@ -1,0 +1,15 @@
+/Users/abigailbeets/workspace/practice/c-sharp/unit-testing-nunit/bin/Debug/netcoreapp2.1/unit-testing-nunit.deps.json
+/Users/abigailbeets/workspace/practice/c-sharp/unit-testing-nunit/bin/Debug/netcoreapp2.1/unit-testing-nunit.runtimeconfig.json
+/Users/abigailbeets/workspace/practice/c-sharp/unit-testing-nunit/bin/Debug/netcoreapp2.1/unit-testing-nunit.runtimeconfig.dev.json
+/Users/abigailbeets/workspace/practice/c-sharp/unit-testing-nunit/bin/Debug/netcoreapp2.1/unit-testing-nunit.dll
+/Users/abigailbeets/workspace/practice/c-sharp/unit-testing-nunit/bin/Debug/netcoreapp2.1/unit-testing-nunit.pdb
+/Users/abigailbeets/workspace/practice/c-sharp/unit-testing-nunit/obj/Debug/netcoreapp2.1/unit-testing-nunit.csprojAssemblyReference.cache
+/Users/abigailbeets/workspace/practice/c-sharp/unit-testing-nunit/obj/Debug/netcoreapp2.1/unit-testing-nunit.csproj.CoreCompileInputs.cache
+/Users/abigailbeets/workspace/practice/c-sharp/unit-testing-nunit/obj/Debug/netcoreapp2.1/unit-testing-nunit.AssemblyInfoInputs.cache
+/Users/abigailbeets/workspace/practice/c-sharp/unit-testing-nunit/obj/Debug/netcoreapp2.1/unit-testing-nunit.AssemblyInfo.cs
+/Users/abigailbeets/workspace/practice/c-sharp/unit-testing-nunit/obj/Debug/netcoreapp2.1/unit-testing-nunit.dll
+/Users/abigailbeets/workspace/practice/c-sharp/unit-testing-nunit/obj/Debug/netcoreapp2.1/unit-testing-nunit.pdb
+/Users/abigailbeets/workspace/practice/c-sharp/unit-testing-nunit/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.dll
+/Users/abigailbeets/workspace/practice/c-sharp/unit-testing-nunit/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.pdb
+/Users/abigailbeets/workspace/practice/c-sharp/unit-testing-nunit/bin/Debug/netcoreapp2.1/nunit.engine.netstandard.dll
+/Users/abigailbeets/workspace/practice/c-sharp/unit-testing-nunit/bin/Debug/netcoreapp2.1/Mono.Cecil.dll
